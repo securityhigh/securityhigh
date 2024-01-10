@@ -10,7 +10,7 @@ I have been developing for 10 years, starting with the smallest projects and now
   - [TopVPS](https://t.me/topvpsbot) – Telegram bot for search VPS hosting with rating, tests and reviews.
   - [bin](https://t.me/hashbin) – Cybersecurity blog.
 
-- **[Spide Security](https://github.com/spidesecurity)**
+- **[Spide](https://github.com/spidesecurity)**
   - [Spide Scanner](https://spide.org/scanner) – Cloud scanning of web application vulnerabilities with a beautiful PDF report. Work in [t.me/spide_robot](https://t.me/spide_robot?start=github).
 
 - **[The Coin Gather](https://github.com/thecoingather)**
