@@ -13,8 +13,8 @@ I have been developing for 10 years, starting with the smallest projects and now
 - **[Spide](https://github.com/spidesecurity)**
   - [Spide Scanner](https://spide.org/scanner) – Cloud scanning of web application vulnerabilities with a beautiful PDF report. Work in [t.me/spide_robot](https://t.me/spide_robot?start=github).
 
-- **[TonLy Foundation](https://github.com/tonlyorg)**
-  - Development applications based on TON.
+- **[TonLy Studio](https://github.com/TonLyStudio)**
+  - Development decentralized applications based on TON.
 
 #### :link: Contacts
 
