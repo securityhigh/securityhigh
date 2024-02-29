@@ -18,7 +18,7 @@ I have been developing for 10 years, starting with the smallest projects and now
 
 #### :link: Contacts
 
-- Telegram – [@eyeof](https://t.me/eyeof)
+- Telegram – [@hexuary](https://t.me/hexuary)
 - Email – [ceo@spide.org](mailto:ceo@spide.org)
 
 #### :moneybag: Donation
