@@ -1,22 +1,21 @@
 ### Hi there 👋
 ![](https://komarev.com/ghpvc/?username=securityhigh&color=green)
 
-Im a **Middle Python Developer**, **Infosecurity Specialist** and **Crypto Enthusiast** from Siberia.
+Im a **High-Middle Python Developer**, **Infosecurity Specialist** and **Crypto Enthusiast** from Siberia.
 I have been developing for 10 years, starting with the smallest projects and now I already have work with many technologies, including **Web3** and **Big Data**.
 
 #### :briefcase: My Projects
 
 - **Personal Products**
-  - [TopVPS](https://t.me/topvpsbot) – Telegram bot for search VPS hosting with rating, tests and reviews.
   - [bin](https://t.me/hashbin) – Cybersecurity blog.
 
-- **[Spide](https://github.com/spidesecurity)**
-  - [Spide Scanner](https://spide.org/scanner) – Cloud scanning of web application vulnerabilities with a beautiful PDF report. Work in [t.me/spide_robot](https://t.me/spide_robot?start=github).
+- **[Spide Technologies](https://github.com/spidesecurity)**
+  - [Spide Scanning System](https://spide.pro/3s) – Cloud scanning of web application vulnerabilities with a beautiful PDF report. Work in [t.me/spide_robot](https://t.me/spide_robot?start=github).
 
 #### :link: Contacts
 
 - Telegram – [@hexuary](https://t.me/hexuary)
-- Email – [ceo@spide.org](mailto:ceo@spide.org)
+- Email – [ceo@spide.pro](mailto:ceo@spide.pro)
 
 #### :moneybag: Donation
 
