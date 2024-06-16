@@ -8,7 +8,7 @@ I have been developing for 10 years, starting with the smallest projects and now
 - **Technologies**: Docker (Compose), Git, Nginx, Proxmox, VMmanager
 - **Databases**: PostgreSQL, MySQL, Redis
 - **Software**: VS Code, DataGrip, RapidAPI (Paw), Termius
-- **Python**: FastAPI, Aiohttp, Celery, Sentry, Asyncio Protocol, Pytest, Asyncpg, Redis-Py, PyQt, Pydantic, Playwright
+- **Python**: FastAPI, Aiohttp, Celery, Sentry, Asyncio Protocol, Pytest, Asyncpg, Redis-Py, Nats, PyQt, Pydantic, Playwright
 
 #### :briefcase: My Projects
 
