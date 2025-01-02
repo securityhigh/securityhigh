@@ -10,16 +10,6 @@ I have been developing for 10 years, starting with the smallest projects and now
 - **Software**: VS Code, DataGrip, RapidAPI (Paw), Termius...
 - **Python**: FastAPI, Aiohttp, Celery, Sentry, Asyncio Protocol, Pytest, Asyncpg, Redis-Py, PyQt, Pydantic, Playwright...
 
-#### :briefcase: My Projects
-
-- **Personal Channels**
-  - [bin](https://t.me/hashbin) – Infosecurity blog.
-
-- **[Spide Technologies](https://github.com/spidepro)**
-
-- **[Kilinóv](https://github.com/kilinovs)**
-  - [Kilinóv Servers](https://t.me/kservers_bot) – Cloud hosting in Telegram.
-
 #### :link: Contacts
 
 - Telegram – [@kilinov](https://t.me/kilinov)
