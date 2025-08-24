@@ -20,6 +20,7 @@ I have been developing for 10 years, starting with the smallest projects and now
 
 - **[Spide](https://t.me/spide) – Cloud vulnerability scanner.**
 - [Kilinóv Servers](https://t.me/kservers_bot?start=utm_github) – VDS (without oversell) hosting based on Proxmox.
+- [bin](https://t.me/hashbin) – my blog in Telegram.
 
 #### :moneybag: Donation
 
