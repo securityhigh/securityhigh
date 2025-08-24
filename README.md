@@ -1,22 +1,27 @@
 ### Hi there 👋
 ![](https://komarev.com/ghpvc/?username=securityhigh&color=green)
 
-Im a **High-Middle Python Developer**, **Infosecurity Specialist** and **Crypto Enthusiast** from Siberia.
+Im a **Middle+ Python Developer**, **Infosecurity Specialist** and **Crypto Enthusiast**.
 I have been developing for 10 years, starting with the smallest projects and now I already have work with many technologies.
 
-#### :pill: Skills (small part)
-- **Technologies**: Docker (Compose), Git, Nginx, Proxmox, VMmanager, CI/CD...
-- **Databases**: PostgreSQL, MySQL, Redis, Mongo, Clickhouse, Nats
-- **Software**: VS Code, DataGrip, RapidAPI (Paw), Termius...
-- **Python**: FastAPI, Aiohttp, Celery, Sentry, Asyncio Protocol, Pytest, Asyncpg, Redis-Py, PyQt, Pydantic, Playwright...
+#### :pill: Skills
+- **Technologies**: Docker (Compose), Git, Proxmox, ISP software...
+- **Databases**: PostgreSQL, MySQL, Redis, Clickhouse, NATS.
+- **Software**: VS Code, DataGrip, Paw, Termius, OrbStack.
+- **Python**: FastAPI, Faststream, Sentry, Asyncio Protocol, Asyncpg, Pydantic, Playwright, Taskiq...
+- **Rust**: actix_web, tokio, hickory.
 
 #### :link: Contacts
 
 - Telegram – [@kilinov](https://t.me/kilinov)
+- Email – [ceo@spide.one](mailto:ceo@spide.one) (PGP allowed)
+
+#### ⚔️ Projects
+
+- **[Spide](https://t.me/spide) – Cloud vulnerability scanner.**
+- [Kilinóv Servers](https://t.me/kservers_bot?start=utm_github) – VDS (without oversell) hosting based on Proxmox.
 
 #### :moneybag: Donation
-
-I really spend a lot of time on development, mostly these are projects for the soul and people, not commercial. I will be very glad for any help.
 
 - TON: `UQA94Gs4KKXxD2FaksLJWEpAVWNe8Pj6PUBhv4t3gXmODT5X` or `1984.ton`
 
